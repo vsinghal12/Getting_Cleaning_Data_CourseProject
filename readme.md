@@ -3,6 +3,7 @@ title: "Getting and Cleaning Data Course Project 2"
 output: html_document
 ---
 
+##Getting and Cleaning Data README
 This deliverable concentrates on taking a dataset from the UCI publicly available repository which tracks wearable devices and accelerometer data. The steps undertook to complete the activity in the **run_analysis.R** are outlined below:
 
 1. Download the dataset and read the training and test datasets for the 3 variables: Features, Activity, Subject.
